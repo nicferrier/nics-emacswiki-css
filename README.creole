@@ -1,0 +1,18 @@
+= Nic's EmacsWiki CSS file =
+
+I wasn't happy with the default CSS from the EmacsWiki.
+
+So I made a copy and changed it.
+
+You can use it on EmacsWiki by
+clicking
+[[http://www.emacswiki.org/cgi-bin/wiki?action=browse;id=CSS;css=https://raw.github.com/nicferrier/nics-emacswiki-css/master/nicferrier.css|here]]
+
+== The elnode app ==
+
+Is useful for hacking on EmacsWiki CSS files. It just starts a tiny
+Elnode server serving the file.
+
+It actually ought to be easier to do that than it is right now... as
+noted in that file.
+
